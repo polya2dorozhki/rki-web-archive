@@ -1,6 +1,7 @@
 # Коллекция веб-архивов сайтов по изучению русского языка как иностранного
 
-Этот репозиторий содержит коллекцию веб-архивов (WARC) образовательных сайтов, посвящённых изучению русского языка.  
+Этот репозиторий содержит коллекцию веб-архивов (WARC) образовательных сайтов, посвящённых изучению русского языка.
+
 Данные собраны с помощью инструмента **wpull**, проанализированы с помощью **metawarc**, а показатели архивируемости — через сервис **ArchiveReady**.
 
 ## Автор проекта
@@ -34,7 +35,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 # ArchiveReady — Показатели архивируемости
 
 ## learnrussian.rt.com
-![ArchiveReady Summary LR](md_files/screenshots/lr_archiveready.png)
+![ArchiveReady Summary LR](lr_archiveready.png.png)
 
 - **Overall:** 76%  
 - **Accessibility:** 47%  
@@ -64,7 +65,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 ---
 
 # russianforfree.com
-![ArchiveReady Summary RF](md_files/screenshots/rf_archiveready.png)
+![ArchiveReady Summary RF](rf_archiveready.png.png)
 
 - **Overall:** 72%  
 - **Accessibility:** 47%  
@@ -92,7 +93,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 ---
 
 # russianstepbystep.com
-![ArchiveReady Summary RSBS](md_files/screenshots/rsbs_archiveready.png)
+![ArchiveReady Summary RSBS](rsbs_archiveready.png.png)
 
 - **Overall:** 84%  
 - **Accessibility:** 41%  
