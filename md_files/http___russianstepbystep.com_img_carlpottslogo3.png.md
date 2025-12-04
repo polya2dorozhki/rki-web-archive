@@ -1,0 +1,14 @@
+# http://russianstepbystep.com/img/carlpottslogo3.png
+
+- URL: http://russianstepbystep.com/img/carlpottslogo3.png
+- Title: 
+- Date: 
+- Author: 
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://old.russianstepbystep.com/img/carlpottslogo3.png">here</a>.</p>
+</body></html>
