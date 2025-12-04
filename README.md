@@ -36,32 +36,6 @@
 6. Проверка архивируемости сайтов с помощью ArchiveReady.
 
 ---
-# Структура репозитория
-
-RKI_web_archives/
-├── learnrussian.rt.com/
-│   ├── learnrussian.rt.com.warc.gz
-│   ├── learnrussian.rt.com.cdx
-│   └── md_files/
-│
-├── russianforfree.com/
-│   ├── russianforfree.com.warc.gz
-│   ├── russianforfree.com.cdx
-│   └── md_files/
-│
-├── russianstepbystep.com/
-│   ├── russianstepbystep.com.warc.gz
-│   ├── russianstepbystep.com.cdx
-│   └── md_files/
-│
-├── lr_archiveready.png.png
-├── rf_archiveready.png.png
-├── rsbs_archiveready.png.png
-├── export.jsonl
-├── metadata.jsonl
-└── README.md
-
----
 
 # Описание сайтов
 
@@ -88,7 +62,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 # ArchiveReady 
 
 ## learnrussian.rt.com
-![ArchiveReady Summary LR](lr_archiveready.png)
+![ArchiveReady Summary LR](lr_archiveready.png.png)
 - **Overall:** 76%  
 - **Accessibility:** 47%  
 - **Cohesion:** 90%  
@@ -96,7 +70,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 - **Standards Compliance:** 69%
 
 ## russianforfree.com
-![ArchiveReady Summary RF](rf_archiveready.png)
+![ArchiveReady Summary RF](rf_archiveready.png.png)
 - **Overall:** 72%  
 - **Accessibility:** 47%  
 - **Cohesion:** 69%  
@@ -104,7 +78,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 - **Standards Compliance:** 72%
 
 ## russianstepbystep.com
-![ArchiveReady Summary RSBS](rsbs_archiveready.png)
+![ArchiveReady Summary RSBS](rsbs_archiveready.png.png)
 - **Overall:** 84%  
 - **Accessibility:** 41%  
 - **Cohesion:** 100%  
