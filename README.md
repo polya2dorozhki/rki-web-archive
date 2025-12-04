@@ -44,7 +44,7 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 
 ---
 
-# 🟧 MIME-тип анализ (metawarc)
+# MIME-тип анализ (metawarc)
 
 ## learnrussian.rt.com
 
@@ -126,6 +126,6 @@ https://drive.google.com/drive/folders/11iYaL5_yL3B7DSRAJ3iOvaIJ_n9usd2S?usp=sha
 
 ---
 
-# 📂 Папка Markdown-файлов
+# Папка Markdown-файлов
 
 Все Markdown-файлы с контентом каждого сайта находятся в папке `md_files`.
